@@ -1,0 +1,53 @@
+**************** REGLAS ***************
+Profesores
+1.- "Maritza","Fernandez"
+2.- "julitza","Martinez"
+3.- "Jhordan","Bustamande"
+4.- "Milagros","Gonzales"
+5.- "Isabel","Fernandez"
+
+Cursos:
+
+1.- Lenguaje
+2.- Matematica
+3.- C.T.A
+4.- Programacion
+5.- Algoritmos Geneticos
+
+
+cursoProfesor:
+1.- Lenguaje - "Maritza","Fernandez"
+2.- Matematica - "julitza","Martinez"
+3.- C.T.A - "Jhordan","Bustamande"
+4.- Programacion - "Milagros","Gonzales"
+5.- Algoritmos Geneticos - "Isabel","Fernandez"
+
+
+Turno:
+1.- Mañana
+2.- Tarde
+
+salon:
+1.- 1ro A
+2.- 1do B
+3.- 1ro C
+4.- 2do A
+5.- 2do B
+6.- 2do C
+7.- 3ro A
+8.- 3ro B
+9.- 3ro C
+10.- 4to A
+11.- 4to B
+12.- 4to C
+13.- 5to A
+14.- 5to B
+15.- 5to C
+16.- 6to A
+17.- 6to B
+18.- 6to C
+
+Periodo Escolar:
+1.- 2019 - I
+2.- 2019 - II 
+3.- 2019 - III
